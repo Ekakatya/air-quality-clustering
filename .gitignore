@@ -1,0 +1,5 @@
+# Ignoring folder configuration IDE
+.idea/
+
+# Ignoring vertual environments
+.venv/
