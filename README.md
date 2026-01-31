@@ -55,9 +55,9 @@ To make this repository look professional, I recommend the following setup:
 
 1.  **Visuals:** Add a folder named `visuals/` and export your key plots (Kriging Map, LSTM Forecast, and Decision Tree) as PNG files. Embed them in this README using `![Alt Text](visuals/filename.png)`.
 2.  **File Structure:**
-    * `/data`: (Link to the Kaggle dataset or include a sample).
-    * `/notebooks`: `Final_Project_Air_Quality_India.ipynb` (Ensure all cells are run and plots are visible).
-    * `/presentation`: `Project_Presentation.pdf` (Convert your .pptx to .pdf for direct browser viewing).
+    * `/data`: [(Link to the Kaggle dataset or include a sample)](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india?select=station_hour.csv).
+    * `/notebooks`: `Final_Project_Air_Quality_India.ipynb`.
+    * `/presentation`: `Project_Presentation.pdf`.
 3.  **Requirements:** Include a `requirements.txt` file so others can install your dependencies easily:
     ```bash
     pip install pandas numpy scikit-learn lightgbm statsmodels tensorflow pykrige folium geopandas missingno
