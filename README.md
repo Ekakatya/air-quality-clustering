@@ -1,5 +1,6 @@
 
-<img width="1280" height="640" alt="TV - 1" src="https://github.com/user-attachments/assets/cc1ff2f8-ae64-4a38-ad8c-5df04722c3c3" />
+<img width="1280" height="640" alt="TV - 1" src="https://github.com/user-attachments/assets/89525059-7ea7-4147-bb30-d8d9da390af1" />
+
 
 # Multidimensional Air Quality Analysis of India: From Data to Policy
 
