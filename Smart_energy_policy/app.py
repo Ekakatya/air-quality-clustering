@@ -206,6 +206,15 @@ try:
         col_desc_1, col_desc_2 = st.columns([2, 2], gap="large")
 
         with col_desc_1:
+            st.markdown("""
+                #### 🗺️ Interactive Policy Brief Structure
+                This platform is organized as a step-by-step analytical journey to ensure transparency of the decision-making process:
+
+                1.  **Exploratory Data Analysis (Current Page):** Understanding the socio-economic and energy landscape of 70 developing nations.
+                2.  **Methodological Framework:** Deep dive into Causal AI, stabilized IPTW weights, and the double-optimization logic.
+                3.  **Model Insights:** Performance analysis of the HDI-maximization and EVI-minimization engines.
+                4.  **Policy Recommendation Engine:** The final synthesis tool that provides data-driven fiscal strategies for specific country profiles.
+            """)
             st.markdown(f"""
                     #### 🎯 Mission: Strategic Policy Alignment
                     This **Decision Support System (DSS)** is designed to navigate the complex trade-off between **Human Development (HDI)** and **Energy Vulnerability (EVI)**. 
