@@ -209,6 +209,7 @@ try:
             st.markdown("""
                 #### 🗺️ Interactive Policy Brief Structure
                 This platform is organized as a step-by-step analytical journey to ensure transparency of the decision-making process:
+                Ы
                 1.  **Exploratory Data Analysis (Current Page):** Understanding the socio-economic and energy landscape of 70 developing nations.
                 2.  **Methodological Framework:** Deep dive into Causal AI, stabilized IPTW weights, and the double-optimization logic.
                 3.  **Model Insights:** Performance analysis of the HDI-maximization and EVI-minimization engines.
